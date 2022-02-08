@@ -1,15 +1,15 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
+title: Md. Shamiul Islam 
+description: Fresh Graduate
 baseurl: "/remple/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
+email: "shamiulislam15@gmail.com"
+linkedin: "http://linkedin.com/in/s4m15v0"
+github: "https://github.com/s4m15v0"
+website: "http://s4m15v0.github.io/"
 medium: "https://tahanima.medium.com/"
 
 markdown: kramdown
